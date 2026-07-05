@@ -7,5 +7,5 @@
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://metrics.lecoq.io/SylentJoe?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config_timezone=America%2FChicago" alt="GitHub metrics for SylentJoe" />
+  <img src="./github-metrics.svg" alt="GitHub metrics for SylentJoe, including private repository activity" />
 </p>
