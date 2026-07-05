@@ -1,8 +1,8 @@
-# 👋 Hey, I’m Josiah
+# 👋 I’m Josiah
 
 ### IT Support • Automation • Windows Infrastructure • Local AI • Private Tooling
 
-I build practical systems that make computers, networks, files, and workflows easier to manage. My work usually sits at the intersection of IT operations, automation, Windows administration, local AI, and private internal tools.
+I build practical systems that make computers, networks, files, and workflows easier to manage. My work focuses on IT operations, Windows administration, automation, local AI, documentation, and private internal tooling.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-11-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
@@ -14,22 +14,22 @@ I build practical systems that make computers, networks, files, and workflows ea
 
 ---
 
-## 🧠 What I’m focused on
+## 🧠 Focus Areas
 
 * Windows endpoint setup, cleanup, hardening, and recovery
-* PowerShell automation for repeatable admin tasks
-* Docker-based local services and private tools
+* PowerShell automation for repeatable administration tasks
+* Docker-based local services and private tooling
 * Local LLM workflows, document processing, and AI-assisted operations
-* GitHub repo hygiene, documentation, licensing, and project structure
+* GitHub repository hygiene, documentation, licensing, and project structure
 * Small business IT systems, security, backups, and workflow optimization
 
 ---
 
-## 🛠️ Tech and tools
+## 🛠️ Tech Stack
 
 | Area              | Tools                                                               |
 | ----------------- | ------------------------------------------------------------------- |
-| Operating systems | Windows 11, Windows Server basics, Ubuntu, WSL                      |
+| Operating Systems | Windows 11, Windows Server basics, Ubuntu, WSL                      |
 | Automation        | PowerShell, Python, GitHub Actions                                  |
 | Infrastructure    | Docker, Tailscale, Cloudflare, DNS, SMB shares                      |
 | Microsoft 365     | Entra, Exchange, SharePoint, OneDrive, Teams, Intune                |
@@ -38,40 +38,40 @@ I build practical systems that make computers, networks, files, and workflows ea
 
 ---
 
-## 🚧 Current project areas
+## 🚧 Current Projects
 
-### Private automation systems
+### Private Automation Systems
 
-Building scripts and internal workflows for device setup, file organization, document handling, and operational cleanup.
+Building scripts and internal workflows for device setup, file organization, document handling, system cleanup, and repeatable IT operations.
 
-### Local AI workflows
+### Local AI Workflows
 
-Experimenting with local models, private inference, document summarization, OCR-adjacent workflows, and AI-assisted admin tools.
+Experimenting with local models, private inference, document summarization, transcription, OCR-adjacent workflows, and AI-assisted administrative tools.
 
-### Windows optimization
+### Windows Optimization
 
-Documenting repeatable Windows setup, driver audits, cleanup procedures, app installation, and workstation hardening.
+Documenting repeatable Windows setup processes, driver audits, cleanup procedures, app installation, workstation hardening, and recovery workflows.
 
 ### Silent Systems
 
-Developing a practical IT support and systems automation brand focused on reliability, privacy, and clean implementation.
+Developing a practical IT support and systems automation brand focused on reliability, privacy, clear documentation, and clean implementation.
 
 ---
 
-## 📌 Featured work
+## 📌 Featured Work
 
-> Most of my serious work is private or internal, but this profile highlights the systems, tools, and documentation style I care about.
+Most of my production work is private or internal, but this profile highlights the systems, tools, and documentation standards I care about.
 
-* **Windows setup automation**
-* **PowerShell admin utilities**
-* **Docker-based local services**
-* **Private AI tooling**
-* **GitHub repository standards**
-* **Small business IT workflows**
+* Windows setup automation
+* PowerShell administration utilities
+* Docker-based local services
+* Private AI tooling
+* GitHub repository standards
+* Small business IT workflows
 
 ---
 
-## 📊 GitHub activity
+## 📊 GitHub Activity
 
 <p align="left">
   <img src="./github-metrics.svg" alt="GitHub metrics for SylentJoe, including private repository activity" />
@@ -86,7 +86,7 @@ Developing a practical IT support and systems automation brand focused on reliab
 * Repeatable systems
 * Minimal bloat
 * Practical security
-* Tools that solve real problems
+* Reliable tools that solve real problems
 
 ---
 
